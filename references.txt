@@ -1,0 +1,25 @@
+References:
+
+Graph Neural Network
+-----------------------------
+https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications
+https://distill.pub/2021/gnn-intro/
+
+Neo4j
+-----------------------------
+https://vladbatushkov.medium.com/learn-neo4j-cypher-basics-in-30-minutes-94d68a52544
+https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications
+
+Coreference Resolution
+-----------------------------
+https://nlp.stanford.edu/projects/coref.shtml
+http://nlpprogress.com/english/coreference_resolution.html
+
+Named Entity Recognition
+-----------------------------
+https://medium.com/mysuperai/what-is-named-entity-recognition-ner-and-how-can-i-use-it-2b68cf6f545d
+
+Semantic Role Labelling
+-----------------------------
+https://web.stanford.edu/~jurafsky/slp3/19.pdf
+https://demo.allennlp.org/semantic-role-labeling/semantic-role-labeling
